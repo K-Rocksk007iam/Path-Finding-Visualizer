@@ -8,9 +8,6 @@ Follow these steps to get a copy of the project up and run on your local machine
 2. run **npm build** this command will downloads all the dependencies of this project.
 3. run **npm start** to run it.
 
-# Demo
-https://mangalyaan-1.herokuapp.com/
-
 # Languages used:
 HTML5, CSS, JAVASCRIPT
 
