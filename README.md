@@ -1,5 +1,5 @@
-# Mangalyaan
-Mangalyaan web application is a visualizing tool that helps the Mars rover (Mangalyaan) to find the shortest path between a start point and an end point using artificial intelligence search algorithms.
+# Path Finding Visualizer
+It is a web application is a visualizing tool that helps the Mars rover (Mangalyaan) to find the shortest path between a start point and an end point using artificial intelligence search algorithms.
 It is an entity which acts, directing its activity towards achieving goals that is to find optimized path to the destination while avoiding all the obstacles This cost might include cost of wear and tear of the rover and cost of energy wasted. Different algorithms are observed and applied to help the mangalyaan to become intelligent and make smart decisions.
 
 # Getting started 
